@@ -1,5 +1,9 @@
 # Hi there, I'm Utkarsh Singh! 👋
 
+<p align="center">
+  <img src="[YOUR_BANNER_URL](https://tse4.mm.bing.net/th/id/OIP.49FMUyVrv1AKrZER3QC-sQHaDh?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)" width="100%" alt="Utkarsh Singh Web Development Banner"/>
+</p>
+
 ### 🚀 Aspiring Software Engineer | First-Year BCA Student
 
 I'm a passionate and curious BCA student who is beginning my journey into the world of technology and software development.
